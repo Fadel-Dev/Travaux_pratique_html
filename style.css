@@ -1,5 +1,19 @@
 
-{
-    color: blue;
+#container{
+    width: 100%;
+
+    border: 1px solid gray;
     
+}
+
+header ,footer{
+    background-color: black;
+    color: white;
+}
+
+li{
+    list-style: none;
+}
+a{
+    color: black;
 }
